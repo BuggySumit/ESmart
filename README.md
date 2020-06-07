@@ -1,6 +1,6 @@
 # ESmart
 
-Esmart is a E Commerce Application build in flutter and uses firebse as a server. IN this app you can add your own products which will display to other users also.
+Esmart is a E Commerce Application build in flutter and uses firebase as a server. IN this app you can add your own products which will display to other users also.
 ## Esmart has diffrent Screens
 
 | Login Screen  | SignUp Screen  |
